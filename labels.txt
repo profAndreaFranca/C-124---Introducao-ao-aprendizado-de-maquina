@@ -1,0 +1,2 @@
+0 com fone
+1 sem fone
